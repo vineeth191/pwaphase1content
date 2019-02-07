@@ -1,0 +1,47 @@
+{
+	"profile" :{
+
+		"img": "image/vin.jpg",
+		"name": "vineeth",
+		"roll": "1243",
+		"institute": "pragati",
+		"place": "kakinada"
+
+	},
+	"career":{
+		"info": "to be in forbes list"
+
+	},
+	"education": [{
+			"s": "1",
+			"degree": "b.tech",
+			"institute": "pragati",
+			"yearofpassing": "2020"
+		},
+		{
+			"s": "2",
+			"degree": "inter",
+			"institute": "sri chaitanya",
+			"yearofpassing": "2016"
+		},
+		{
+			"s": "3",
+			"degree": "ssc",
+			"institute": "little buds",
+			"yearofpassing": "2014"
+		}
+	],
+	"languages": [{
+			"lang": "english"
+
+		},
+		{
+			"lang": "hindi"
+
+		},
+		{
+			"lang": "telugu"
+
+		}
+	]
+}
